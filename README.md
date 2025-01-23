@@ -7,6 +7,9 @@ This project employs multiple machine learning models to analyze patterns in stu
 - Random Forest Classifier
 - Support Vector Machine (SVM)
 - Multi-Layer Perceptron (MLP)
+- Naive Bayes
+- K-Nearest Neighbors (KNN)
+- Decision Tree
 
 ## Dataset
 The dataset contains student performance factors including:
